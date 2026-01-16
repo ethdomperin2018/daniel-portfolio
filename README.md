@@ -8,10 +8,6 @@
 
 Agency portfolio is a static nextjs portfolio template build with nextjs, material-ui and designed for any digital agency. This portfolio seamlessly adapts to various screen sizes and ensuring a flawless user experience and super animations.
 
-## Live demo
-
-https://fusion-softworks-agency.vercel.app/
-
 ## Run Locally
 
 - **Download:** Start by downloading the code.
